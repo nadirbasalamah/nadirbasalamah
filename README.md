@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Nadir Basalamah, I'm interested in web development and software engineering. I'm currently learning many backend technologies such as NodeJS, Deno, Golang, Microservices, Docker and others. 
+
+You can reach me with these contacts 📫 :
+- Twitter: @nadir_bslmh
+- Instagram: nadirbasalamah
+- DEV.TO : [nadirbasalamah](https://dev.to/nadirbasalamah)
