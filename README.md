@@ -1,6 +1,6 @@
 # Hi, I'm Nadir Basalamah! 👋
 
-I am a coding instructor with hands-on experience in software development, specializing in back-end engineering and software quality assurance. I am passionate about simplifying complex concepts and equipping learners with practical, real-world skills. I stay adaptable to the latest technologies and am committed to delivering excellence and impactful results in every project I undertake.
+A dedicated back-end engineer with extensive experience in application development, striving to deliver high-quality software. Skilled in mentoring others to improve their software engineering abilities. Known for adaptability across various technologies, a strong work ethic, and a commitment to providing high-quality software solutions.
 
 ![nadirbasalamah's Stats](https://github-readme-stats.vercel.app/api?username=nadirbasalamah&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
